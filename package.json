@@ -8,6 +8,7 @@
 		"preview": "vocs preview"
 	},
 	"dependencies": {
+		"@giscus/react": "^3.0.0",
 		"react": "latest",
 		"react-dom": "latest",
 		"vocs": "latest"

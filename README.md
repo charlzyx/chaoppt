@@ -1,3 +1,5 @@
 # 👋 hi there
 
-![tomcat](https://r2.charlzyx.xyz/tomgpt.jpg)
+<p align="center">
+  <img src="https://r2.charlzyx.xyz/tomgpt.jpg" />
+</p>
