@@ -1,0 +1,167 @@
+{
+  "main": {
+    "id": "dfec01c4ae50e13e",
+    "type": "split",
+    "children": [
+      {
+        "id": "e1b38858f0d8a1f5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "47ea8598fc79f5bc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/pages/flutten-typescript/01.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fafbe74f321f20b7",
+    "type": "split",
+    "children": [
+      {
+        "id": "db9ff45a554d45e0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "240cb78cafabf389",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c286649b3618051b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "bd45fc3a0facf484",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f9c7c801093ac8b3",
+    "type": "split",
+    "children": [
+      {
+        "id": "05cdf3ae50118a11",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "344187835d7ebcab",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "docs/pages/flutten-typescript/01.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4587ffc282d46de9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "docs/pages/flutten-typescript/01.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "72480b1954c2dbb1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ff373de1031455c1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "docs/pages/flutten-typescript/01.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "47ea8598fc79f5bc",
+  "lastOpenFiles": [
+    "vocs.config.ts.timestamp-1709882140958-7cc55ece19c59.mjs",
+    "vocs.config.ts.timestamp-1709882140958-22ae20ba20493.mjs",
+    "vocs.config.ts.timestamp-1709882136642-ae2ef6a15f271.mjs",
+    "vocs.config.ts.timestamp-1709882136611-91435257eb08e.mjs",
+    "vocs.config.ts.timestamp-1709882136281-b6cd8dc106927.mjs",
+    "vocs.config.ts.timestamp-1709882136285-6fc24818f66e9.mjs",
+    "vocs.config.ts.timestamp-1709882136285-d574c37bbd659.mjs",
+    "node_modules/vocs/node_modules",
+    "vocs.config.ts.timestamp-1709882134059-882927e14e50f.mjs",
+    "vocs.config.ts.timestamp-1709882133922-6e5273252850e.mjs",
+    "node_modules/vocs/_lib/vite/vite.config.js.timestamp-1709882133710-b5ed43713f323.mjs",
+    "docs/pages/begin.md",
+    "README.md",
+    "docs/pages/flutten-typescript/01.md",
+    "docs/pages/index.md"
+  ]
+}
