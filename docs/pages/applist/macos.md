@@ -7,6 +7,8 @@ authors:
 # 开发环境 Mac 篇
 ::authors
 
+个人 Mac 环境常用软件
+
 > [MacWk](https://macwk.com.cn)
 > [Xclient](https://xclient.info)
  

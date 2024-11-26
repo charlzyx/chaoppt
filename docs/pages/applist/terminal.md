@@ -5,7 +5,10 @@ authors:
 ---
 
 # 命令行工具
+
 ::authors
+
+个人 Mac 环境常用软件
 
 - brew
 - zsh
