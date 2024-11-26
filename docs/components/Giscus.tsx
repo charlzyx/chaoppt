@@ -8,6 +8,7 @@ const should = () => {
 
 const sty: React.CSSProperties = {
 	position: "relative",
+	display: 'none',
 	minHeight: "60px",
 };
 
@@ -41,8 +42,7 @@ export const Giscus = () => {
 				on();
 			});
 			return oReplace(...args);
-		};
-	}, []);
+		}	}, []);
 
 	useLayoutEffect(() => {
 		if (!box) return;
