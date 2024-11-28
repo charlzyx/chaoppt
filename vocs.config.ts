@@ -2,7 +2,7 @@ import { defineConfig } from "vocs";
 
 export default defineConfig({
   baseUrl: "https://charlzyx.pages.dev",
-  title: "Charlzyx",
+  title: "超の空间斩",
   socials: [
     {
       icon: "github",

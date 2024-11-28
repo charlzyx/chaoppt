@@ -1,5 +1,5 @@
 import GiscusComponent from "@giscus/react";
-import { useEffect, useLayoutEffect, useState } from "react";
+import { useEffect, useState } from "react";
 
 const should = () => {
   const len = window.location.pathname.length;

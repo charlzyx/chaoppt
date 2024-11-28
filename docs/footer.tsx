@@ -9,9 +9,7 @@ export default function Footer() {
       <div>
         {/* <div>Released under the MIT License.</div> */}
         <div>
-          Copyright © 2022-present charlzyx@qq.com.
-          <br />
-          Powerd by{" "}
+          Copyright © 2022-present charlzyx@qq.com. powerd by{" "}
           <a
             className="vocs_Anchor vocs_Link vocs_Link_accent_underlined"
             href="https://vocs.dev"
